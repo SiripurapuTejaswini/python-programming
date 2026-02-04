@@ -1,4 +1,4 @@
-# python-core-
+# python-programming-
 ----># Write a program to find sum of all the numbers in given range if starting index is greater than ending index print INVALID RANGE #
 a=int(input())
 b=int(input())
